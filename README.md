@@ -42,9 +42,3 @@ Create a new branch for your feature or bug fix.
 Implement your feature or bug fix.
 Commit and push your changes.
 Submit a pull request.
-License
-This project is licensed under the MIT License.
-
-For more information, please refer to the LICENSE file.
-
-That's it! Now you have a compact README.md file summarizing the Music Player application and its usage. Feel free to make any additional changes or add more sections as needed.
